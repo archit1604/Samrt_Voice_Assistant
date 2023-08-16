@@ -1,6 +1,8 @@
 # voice_assist
 
-A new Flutter project.
+A new Flutter project. Which can generate images as well as answer any question asked. 
+This app uses ChatGPT and DALL-E to smartly generate answer to any question.
+Uses OpenAI API.
 
 ## Getting Started
 
