@@ -20,7 +20,8 @@ samples, guidance on mobile development, and a full API reference.
 ## How to use the app?
 
 First, download the repository.
-Then, create your own API key from OpenAI website by signing in your account.([OpenAI API key](https://platform.openai.com/account/api-keys))
+Then, create your own API key from OpenAI website by signing in your account([OpenAI API key](https://platform.openai.com/account/api-keys)).
+
 Now replace the key present in secrets.dart file in lib folder.
 Then run your app on your phone.
 Use the Mic icon to ask any question or to show any image using voice assistant.
